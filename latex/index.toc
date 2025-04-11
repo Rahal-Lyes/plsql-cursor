@@ -1,0 +1,11 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Partie A : Affichage des informations des employés}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Version avec curseur explicite}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Autre method ameliorer pour la question A}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Partie B : Fonction de calcul de salaire}{3}{section.2}%
+\contentsline {section}{\numberline {3}Partie C : Ajout de l’attribut \texttt {new\_salary} de type \texttt {NUMBER} à la table \texttt {EMPLOYEES}}{4}{section.3}%
+\contentsline {section}{\numberline {4}Partie D : Procédure de mise à jour}{4}{section.4}%
+\contentsline {section}{\numberline {5}Partie E: Exécuter la procédure et montrer les résultats de son exécution (avant et après)}{4}{section.5}%
+\contentsline {section}{\numberline {6}Partie F: Afficher les informations sur les old et new salary sous cette forme)}{5}{section.6}%
+\contentsline {section}{\numberline {7}(g) Programme PL/SQL utilisant un curseur}{6}{section.7}%
+\contentsline {section}{\numberline {8}Mise à jour de la date de prochaine promotion des employés}{6}{section.8}%
